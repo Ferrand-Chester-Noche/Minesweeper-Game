@@ -1,0 +1,2 @@
+Note:
+"EASY_leaderboard.txt" contains scores for testing if values are sorted once inputted.
